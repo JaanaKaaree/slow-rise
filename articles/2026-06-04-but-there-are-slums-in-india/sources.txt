@@ -1,0 +1,31 @@
+SOURCES — But There Are Slums in India
+Generated: 2026-06-04
+
+[1] Statista / World Bank data via multiple sources
+    URL: https://www.statista.com/statistics/1400274/india-slum-population-as-a-share-of-urban-population/
+    Used for: ~40% of India's urban population in informal settlements (2022 figure)
+
+[2] JETIR January 2024 / World Bank 2020
+    URL: https://www.jetir.org/papers/JETIR2401676.pdf
+    Used for: Mumbai — more than half the population in slum areas
+
+[3] Rapid Urban Growth in India: Slum Evictions and Marginalization, Down to Earth
+    URL: https://www.downtoearth.org.in/governance/as-indian-cities-experience-rapid-population-growth-slum-areas-are-becoming-increasingly-marginalised
+    Used for: Olga Tellis judgment 1985 — Supreme Court ruling on eviction and right to livelihood
+
+[4] India's Unrelenting Forced-eviction Crisis, Housing and Land Rights Network (HLRN)
+    URL: https://www.hlrn.org/activitydetails.php?title=India%E2%80%99s-Unrelenting-Forced-eviction-Crisis&id=pmtoZw%3D%3D
+    Used for: Families relocated far from employment, practical devastation of clearance schemes
+
+[5] Voronoi / World Bank data
+    URL: https://www.voronoiapp.com/other/Change-in-Population-Living-in-Slums-163
+    Used for: India's urban population grew 14-fold over a century (1901–2011)
+
+[6] ACI Worldwide Report 2024 / PIB India
+    URL: https://www.pib.gov.in/PressNoteDetails.aspx?NoteId=154912
+    Used for: India handles nearly half of all real-time payment transactions globally
+
+SEARCHES PERFORMED
+- "India slum population percentage 2024 statistics" → ~40% urban population figure, Mumbai >50%
+- "India slum demolition human rights displacement forced eviction" → 1985 Supreme Court ruling, HLRN eviction data
+- "India GDP growth space program UPI digital payments Western media coverage" → UPI global share of real-time payments
